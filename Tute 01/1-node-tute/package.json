@@ -1,0 +1,20 @@
+{
+  "name": "tute_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0_modules.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21",
+    "npm": "^8.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
